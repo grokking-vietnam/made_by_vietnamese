@@ -14,13 +14,20 @@ Here are a list of open source projects that are made by Vietnamese software eng
 3. Submit Pull Request
 4. Profit!
 
-### Frameworks 
+### Frameworks
 
-##### [Unicorn Engine](http://unicorn-engine.org) by [Nguyen Anh Quynh](http://github.com/aquynh)
-A CPU emulator framework based on [QEMU](http://qemu.org) which is intended for
+##### [Unicorn Engine](http://unicorn-engine.org)
+* A CPU emulator framework based on [QEMU](http://qemu.org) which is intended for
 use by the security community. Some interesting usecases are malware study, OS
 emulation (running Linux compiled binaries on OSX, see [usercorn](
 https://github.com/lunixbochs/usercorn)), optimization engine.
+* Author: [Nguyen Anh Quynh](http://github.com/aquynh)
+
+##### [LazyDB](https://github.com/nvquanghuy/lazydb)
+
+* A simple, elegant PHP mySQL database library
+* Language: PHP
+* Author: Huy Nguyen
 
 ### Ruby
 
