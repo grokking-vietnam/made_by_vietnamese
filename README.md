@@ -4,8 +4,6 @@ Here are a list of open source projects that are made by Vietnamese software eng
 
 ## Projects
 
-#### Frameworks
-
 ##### [Unicorn Engine](http://unicorn-engine.org) by [Nguyen Anh Quynh](http://github.com/aquynh)
 * A CPU emulator framework based on [QEMU](http://qemu.org) which is intended for
 use by the security community. Some interesting usecases are malware study, OS
@@ -16,9 +14,10 @@ https://github.com/lunixbochs/usercorn)), optimization engine.
 * A simple, elegant PHP mySQL database library
 * Language: PHP
 
-#### Ruby
+#### Other Lists
 
-Check out the same list made by [Ruby Vietnam](http://ruby.org.vn/) community: [made-by-vietnamese-gems](https://github.com/ruby-vietnam/made-by-vietnamese-gems)
+* From Ruby Vietnam community: [made-by-vietnamese-gems](https://github.com/ruby-vietnam/made-by-vietnamese-gems)
+* Check out [https://github.com/lewtds/awesome-viet-foss](https://github.com/lewtds/awesome-viet-foss)
 
 ## FAQs
 
