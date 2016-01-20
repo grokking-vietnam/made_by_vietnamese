@@ -17,13 +17,13 @@ https://github.com/lunixbochs/usercorn)), optimization engine.
 ##### [Blackhulk](https://github.com/FancyBlog/blackhulk)
 * An awesome blog engine. Blog posts will be saved in a GitHub Issues.
 
-##### [Upload Image](https://github.com/duykhoa/upload_image)
+##### [upload_image](https://github.com/duykhoa/upload_image)
 * A tiny gem to upload image to upload.im
 
-##### [Install mac](https://github.com/duykhoa/install_my_mac)
+##### [install_my_mac](https://github.com/duykhoa/install_my_mac)
 * A script to install OSX, using homebrew, cask and homebrew-bundle
 
-##### [SG postcode](https://github.com/ManagedApplicationServices/sg_postcode)
+##### [sg_postcode](https://github.com/ManagedApplicationServices/sg_postcode)
 * Convert an array of Postcode to an array of place info, include long, lat, and format address.
 
 #### Other Lists
