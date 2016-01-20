@@ -14,6 +14,18 @@ https://github.com/lunixbochs/usercorn)), optimization engine.
 * A simple, elegant PHP mySQL database library
 * Language: PHP
 
+##### [Blackhulk](https://github.com/FancyBlog/blackhulk)
+* An awesome blog engine. Blog posts will be saved in a GitHub Issues.
+
+##### [upload_image](https://github.com/duykhoa/upload_image)
+* A tiny gem to upload image to upload.im
+
+##### [install_my_mac](https://github.com/duykhoa/install_my_mac)
+* A script to install OSX, using homebrew, cask and homebrew-bundle
+
+##### [sg_postcode](https://github.com/ManagedApplicationServices/sg_postcode)
+* Convert an array of Postcode to an array of place info, include long, lat, and format address.
+
 #### Other Lists
 
 * From Ruby Vietnam community: [made-by-vietnamese-gems](https://github.com/ruby-vietnam/made-by-vietnamese-gems)
